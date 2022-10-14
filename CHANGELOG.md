@@ -4,6 +4,12 @@
 
 ### Patch Changes
 
+- a09ffbc: updated name
+
+## 1.0.1
+
+### Patch Changes
+
 - 2472582: updated package.json
 
 ## 1.0.1
